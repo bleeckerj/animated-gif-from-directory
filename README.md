@@ -1,7 +1,7 @@
 ### 2024-07-27T12:03:49-07:00
 Looping is now optional
 
-default is to loop:
+default is to not loop:
 ./create_gif.py /path/to/your/image_directory output.gif --duration 500 --max_size 500
 
 specity --loop to loop
