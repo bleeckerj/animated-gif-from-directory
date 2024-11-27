@@ -1,3 +1,6 @@
+### 2024-11-27T08:57:22-08:00
+Try using --duration 200 for mp4 to not skip frames?
+
 ### 2024-07-27T12:03:49-07:00
 Looping is now optional
 
